@@ -1,0 +1,30 @@
+header{
+    /* border: solid 1px red; */
+    height: 13vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: solid 2px #E2E2E2;
+    
+}
+
+.navegation{
+    /* border: solid 1px red; */
+    width: 12vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.name{
+    text-transform: uppercase;
+    font-family: 'JetBrains Mono', sans-serif;
+    font-size: 1.5rem;
+}
+
+.boxUser{
+    /* border: solid 1px red; */
+    width: 9vw;
+    display: flex;
+    justify-content: space-between;
+    
+}

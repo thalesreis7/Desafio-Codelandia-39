@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Nunito', sans-serif;
+  src: url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+  font-family: 'Caesar Dressing', sans-serif;
+  src: url('https://fonts.googleapis.com/css2?family=Caesar+Dressing&display=swap');
+}
+/* @font-face {
+  
+} */
+
+:root{
+  --dark_10: #100F0F;
+  --white_grey: #E2E2E2;
+  --white:#F9F9F9;
+} 
